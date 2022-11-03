@@ -6,13 +6,14 @@ are running the world and they can only understand numbers... You've created a s
 consists of numbers which represent specific food items. 
 
 You're trying to be healthy so you decide you only want to buy the fruit that you've put on your 
-shopping list. All fruitsitems are represented by a number ending with a 3. Return a new
+shopping list. All fruit items are represented by a number ending with a 3. Return a new
 shopping list with only the fruit items. 
 
 Examples: 
 
 [136453, 353543, 763543, 875654, 121, 373, 2, 14, 3] => [136453, 353543, 763543, 373, 3]
 [16745, 37, 863, 233, 1, 22562, 753, 986432, 173] => [863, 233, 753, 173]
+[1245 2, 46, 784, 752, 55, 10] => []
 
 */
 
